@@ -1,0 +1,31 @@
+﻿Character - TargetSiteVoid ThrowArgumentException(System.ExceptionResource)
+Message - Элемент с тем же ключом уже был добавлен.
+Source - mscorlibWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteMySql.Data.MySqlClient.MySqlPacket ReadPacket()
+Message - The used SELECT statements have a different number of columns
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid LoadPacket()
+Message - Reading from the stream has failed.
+Source - MySql.DataWorkWithMYSQL - TargetSiteVoid Throw(System.Exception)
+Message - The CommandText property has not been properly initialized.
+Source - MySql.Data
